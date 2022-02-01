@@ -1,5 +1,5 @@
 <h2> Hey there! 👋 I'm CHAITHRA</h2>
-<img align="right" alt="GIF" src="http://www.geocities.ws/ungkushahirah/images/animated-00.gif" width="300"/>
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
