@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Web Development
-- 🎓 &nbsp; Studying Electronics and Communication, Verilog and Microcontrollers.
+- 🎓 &nbsp; Junior Hardware Engineer.
 
 
 <h3>🛠 Tech Stack</h3>
