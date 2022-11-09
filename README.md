@@ -3,8 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development
-- 🎓 &nbsp; Junior Hardware Engineer.
+- 🎓 &nbsp; Degree in Electronics and Communication.
 
 
 <h3>🛠 Tech Stack</h3>
